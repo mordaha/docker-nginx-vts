@@ -5,4 +5,5 @@ This is docker nginx image, based on official nginx:0.14.0 compiled with
 
 Run in production with host networking.
 
-## License MIT
+## License: The Unlicense
+
